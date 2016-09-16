@@ -6,21 +6,8 @@ export default class ServicesScreen extends Component {
 
   render() {
     return (
-      <Navigator
-        renderScene={ () => this.renderScene() }
-      />
-    );
-  }
-
-  renderScene() {
-    return (
       <Container>
-    		<Header>
-          <Button transparent onPress={ () => this._back() }>
-              <Icon name='ios-arrow-back' />
-          </Button>
-          <Title>S2Payment</Title>
-        </Header>
+    		<Header></Header>
         <Content>
           <List>
             { this._getServicesTypes() }
@@ -64,7 +51,7 @@ export default class ServicesScreen extends Component {
     var entity = db.find(function (item) { return item.id == this }, this.props.passProps.itemId);
     return entity.services.map ( (item) => {
       return (
-        <ListItem button key={item} onPress={ () => this._toServiceData(item) }>
+        <ListItem button style={{padding: 12}} key={item} onPress={ () => this._toServiceData(item) }>
           <Text style={styles.textItem}>{item}</Text>
         </ListItem>
       );
@@ -87,6 +74,7 @@ export default class ServicesScreen extends Component {
 
 const styles = StyleSheet.create({
   textItem: {
+    height: 30,
     fontSize: 20
   }
 });

@@ -6,18 +6,8 @@ export default class MenuScreen extends Component {
 
   render() {
     return (
-      <Navigator
-        renderScene={ () => this.renderScene() }
-      />
-    );
-  }
-
-  renderScene(route, navigator) {
-    return (
     	<Container>
-    		<Header>
-          <Title>S2Payment</Title>
-        </Header>
+        <Header></Header>
         <Content>
           <List>
             { this._listItems() }
@@ -48,7 +38,7 @@ export default class MenuScreen extends Component {
     ];
     return listItems.map( (item) => {
       return (
-        <ListItem button key={item.id} onPress={ () => this._toServices(item.id) }>
+        <ListItem button style={{padding: 12}} key={item.id} onPress={ () => this._toServices(item.id) }>
           <Text style={styles.textItem}>{item.option}</Text>
         </ListItem>
       )
@@ -68,6 +58,7 @@ export default class MenuScreen extends Component {
 
 const styles = StyleSheet.create({
   textItem: {
+    height: 30,
     fontSize: 20
   }
 });

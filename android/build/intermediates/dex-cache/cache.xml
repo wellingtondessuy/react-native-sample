@@ -2,62 +2,6 @@
 <items version="2" >
 
     <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-403a4022ca7abfd401a218cd033f28acd85659ce.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1-d1f21ed02c06c080b285a3c7c90cf299131934c1.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1-c4697992359850314dd777029104df19c942dc0f.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-d32198f9c5940981588d83a66ccddec317c1dc99.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-dcfca4097d6e4ed6be8c5faf20932d781694cd8a.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="63994437f62bc861bc20c605d12962f7246116d1">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1-5159b6b5471ce78ad9e7cb5a07be1de57fbeee9b.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okio-1.9.0-fc009df2035d09b068d24bebb541a3ef956cdcea.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1-dc248217b0e70a1174ffed696192f02389f7cf3c.jar" />
-    </item>
-    <item
         jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
@@ -65,81 +9,11 @@
         <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-781d1ea861fb7d6e0c04b1dc26e4154498f2b872.jar" />
     </item>
     <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-edb954dcbf0d8bdd35dbcf2fd460da540f343106.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="86a10a3af45f2c46b8dcfcb41220821d10794699">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-74c0ebcbaa7413e3aee273cdbfb22af2d8088041.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0-a6665eea26f505358910d59fb481be5f6789e0de.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6975da39a7040257bd51d21a231b76c915872d38">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/javax.inject-1-20d5164c565cb7921f04e98df4584dddb94510f1.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/library-2.4.0-54d0746abbc504d451e530e8e0f74e98b0fe9655.jar" />
-    </item>
-    <item
-        jar="/run/media/wellington/HD_Externo_320/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1-7484000a8fefab4876a5897f43b87a6c15544947.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-faf5ab1bfe439519339e2153124bfba6dbd1831d.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-1796a645037e2cd15440d5232cb918e8cf123858.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/NewTest/react-native-vector-icons/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="47913dfad1aa780d797797a5242742a1a056c146">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-bef8dc156dd268060e43a04d420f6e890f3b5266.jar" />
-    </item>
-    <item
-        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-91e8bdf9cc2a6888cf306d5655ae882a7c8c961f.jar" />
-    </item>
-    <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0-d20c1f84589c4c4a98420359adf79f6d963b3aa7.jar" />
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-ede7bbb8007be98d5b3f17b0f1afd7b1aced86f1.jar" />
     </item>
     <item
         jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
@@ -149,11 +23,221 @@
         <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-e1a387d2f5b7742e92d691d2a1be0e2c2207dad9.jar" />
     </item>
     <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/NewTest/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="47913dfad1aa780d797797a5242742a1a056c146">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-bef8dc156dd268060e43a04d420f6e890f3b5266.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86a10a3af45f2c46b8dcfcb41220821d10794699">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-74c0ebcbaa7413e3aee273cdbfb22af2d8088041.jar" />
+    </item>
+    <item
         jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/libs/infer-annotations-1.5.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="849357db0dcadfb604ea1ec3a185b276d98e997c">
         <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5-ebc0564e5c310160f557efca9b971284ff448d13.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0-d20c1f84589c4c4a98420359adf79f6d963b3aa7.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/library-2.4.0-54d0746abbc504d451e530e8e0f74e98b0fe9655.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-faf5ab1bfe439519339e2153124bfba6dbd1831d.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-c48c0ba5f2b05a6284f1d5e154999d76c798a15d.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-edb954dcbf0d8bdd35dbcf2fd460da540f343106.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1-c4697992359850314dd777029104df19c942dc0f.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-1796a645037e2cd15440d5232cb918e8cf123858.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-e28a8c87b680201afd0d19bc3441cbce38ae2a4c.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-446efbd767761fd75fd59e5eaa7456ec2675a6fa.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-87e060c54c6e87297877dfff3222cdf4e0df3b61.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-dcfca4097d6e4ed6be8c5faf20932d781694cd8a.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-d32198f9c5940981588d83a66ccddec317c1dc99.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-ae4f53466a03cb042d79b1455c97a3329f1a823c.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-40e4b190c21154684f7eed458ed3ee911d8dec1e.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="849357db0dcadfb604ea1ec3a185b276d98e997c">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-6f410c792ea8290dee547a5bc6aaa1ee1b9b8ec7.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/javax.inject-1-20d5164c565cb7921f04e98df4584dddb94510f1.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.33.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="86a10a3af45f2c46b8dcfcb41220821d10794699">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-4215d98cceca74c9e169932bc23f0883e2b3bfe9.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/NewTest/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="124d6653286a79e3e6b705fb95ccea942dbcbe95">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-edfb99a189d699e64c1842eaeea1feed0de0f0ba.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-056d817de7aed60b907d6506598a3b841701cf88.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/jackson-core-2.2.3-7d7f1473f9dda2816beefe2c6b33abd6f471751e.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-5eef5a6f3a316880b74139503bff68dced02f8e6.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okio-1.9.0-fc009df2035d09b068d24bebb541a3ef956cdcea.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-91e8bdf9cc2a6888cf306d5655ae882a7c8c961f.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-5c43b180dce8a546374f0eb99f004fff1c53d1c4.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0-a6665eea26f505358910d59fb481be5f6789e0de.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/home/wellington/Testes/react/react-native-sample/android/app/build/intermediates/pre-dexed/debug/classes-b6a7212c2416e7a0212abbec2f36ef30a9410aec.jar" />
+    </item>
+    <item
+        jar="/run/media/wellington/HD_Externo_320/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/support-annotations-23.2.1-7484000a8fefab4876a5897f43b87a6c15544947.jar" />
+    </item>
+    <item
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/internal_impl-23.2.1-d1f21ed02c06c080b285a3c7c90cf299131934c1.jar" />
     </item>
     <item
         jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
@@ -163,11 +247,25 @@
         <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-d845b817207c2fe3bb3cb022aff152bb1f200cc0.jar" />
     </item>
     <item
-        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jar="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/jackson-core-2.2.3-7d7f1473f9dda2816beefe2c6b33abd6f471751e.jar" />
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/classes-403a4022ca7abfd401a218cd033f28acd85659ce.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1-dc248217b0e70a1174ffed696192f02389f7cf3c.jar" />
+    </item>
+    <item
+        jar="/home/wellington/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/home/wellington/Testes/react/native/new-test/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1-5159b6b5471ce78ad9e7cb5a07be1de57fbeee9b.jar" />
     </item>
 
 </items>

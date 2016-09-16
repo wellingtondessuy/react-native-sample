@@ -6,14 +6,6 @@ export default class ServiceDataScreen extends Component {
 
   render() {
     return (
-      <Navigator
-        renderScene={ () => this.renderScene() }
-      />
-    )
-  }
-
-  renderScene() {
-    return (
       <Container>
     		<Header>
           <Button transparent onPress={ () => this._back() }>
@@ -25,7 +17,7 @@ export default class ServiceDataScreen extends Component {
           <View style={styles.mainView}>
             { this._getInputDataList() }
             <View style={styles.viewButton}>
-              <Button block info> Próximo </Button>
+              <Button info onPress={ () => this._toPayment() }> Próximo </Button>
             </View>
           </View>
         </Content>
@@ -77,6 +69,18 @@ export default class ServiceDataScreen extends Component {
 
   }
 
+  _toPayment() {
+    if (this.props.navigator.getCurrentRoutes().length == 4)
+      this.props.navigator.jumpForward(0);
+    else
+      this.props.navigator.push({
+        id: 'payment',
+        passProps: {
+          fields: this.state.fields
+        }
+      });
+  }
+
   _setState(text, field) {
     this.state.fields[field] = text;
   }
@@ -91,6 +95,8 @@ const styles = StyleSheet.create({
     padding: 25
   },
   viewButton: {
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
     marginTop: 15
   }
 });
